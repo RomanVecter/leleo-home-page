@@ -152,14 +152,14 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "真的不知道写啥", text: "所以你打不开。哈哈，这博客怕是得了“写作拖延症”，连打开都成了“薛定谔的猫”——你不点进去，永远不知道它到底是空的还是满的。或许它正在偷偷酝酿一篇惊天动地的文章，只是还没找到灵感，或者干脆在摸鱼。总之，博客的门关得紧紧的，仿佛在说：“今天不营业，改天再来吧！”", url: "https://leleo.top", show: false },
-		{ go: "🗂️ 前往", img: "/img/boge/sun.jpg", title: "网盘", subtitle: "我的私人学习资料", text: "不是你想的那样，是正经的！.", url: "https://leleo.top", show: false },
-		{ go: "📝 前往", img: "/img/boge/flower.jpg", title: "日常", subtitle: "i人哪有日常", text: "i人真的真的没有日常.", url: "https://leleo.top", show: false  },
-		{ go: "👍 前往", img: "/img/boge/saibopengke.png", title: "游戏", subtitle: "电子yanwei中", text: "赛博朋克2077真不错啊.", url: "https://leleo.top", show: false  },
-		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "留言", subtitle: "有什么想说的就说出来吧", text: "你头顶这么尖尖的？.", url: "https://leleo.top", show: false  },
-		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "数据", subtitle: "数据别问,问就是莫得", text: "不可说.", url: "https://leleo.top", show: false  },
-		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "一切待定", subtitle: "就是懒得动了", text: "不可说.", url: "https://leleo.top", show: false  },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "未来可期", subtitle: "同左", text: "不可说.", url: "https://leleo.top", show: false  },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "博客", subtitle: "真的不知道写啥", text: "所以你打不开。哈哈，这博客怕是得了“写作拖延症”，连打开都成了“薛定谔的猫”——你不点进去，永远不知道它到底是空的还是满的。或许它正在偷偷酝酿一篇惊天动地的文章，只是还没找到灵感，或者干脆在摸鱼。总之，博客的门关得紧紧的，仿佛在说：“今天不营业，改天再来吧！”", url: "https://github.com/RomanVecter/", show: false },
+		{ go: "🗂️ 前往", img: "/img/boge/sun.jpg", title: "网盘", subtitle: "我的私人学习资料", text: "不是你想的那样，是正经的！.", url: "https://github.com/RomanVecter/", show: false },
+		{ go: "📝 前往", img: "/img/boge/flower.jpg", title: "日常", subtitle: "i人哪有日常", text: "i人真的真的没有日常.", url: "https://github.com/RomanVecter/", show: false  },
+		{ go: "👍 前往", img: "/img/boge/saibopengke.png", title: "游戏", subtitle: "电子yanwei中", text: "赛博朋克2077真不错啊.", url: "https://github.com/RomanVecter/", show: false  },
+		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "留言", subtitle: "有什么想说的就说出来吧", text: "你头顶这么尖尖的？.", url: "https://github.com/RomanVecter/", show: false  },
+		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "数据", subtitle: "数据别问,问就是莫得", text: "不可说.", url: "https://github.com/RomanVecter/", show: false  },
+		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "一切待定", subtitle: "就是懒得动了", text: "不可说.", url: "https://github.com/RomanVecter/", show: false  },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "未来可期", subtitle: "同左", text: "不可说.", url: "https://github.com/RomanVecter/", show: false  },
 	],
 
 	statement: ["备案号：XXICP备号", "Copyright © 2025 Leleo"],
