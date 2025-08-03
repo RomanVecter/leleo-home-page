@@ -20,7 +20,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	tags: ['i人', '摄影', '万物亲和', 'linux', 'C++', '嵌入式', 'INHE', '深圳'],
+	tags: ['i人', 'linux', 'C++', "MATLAB","C",'嵌入式', 'INHE', ],
 
 	// 默认背景壁纸
 	background: {
